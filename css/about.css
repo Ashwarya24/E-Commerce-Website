@@ -1,7 +1,7 @@
 .about-container{
-    width: 500px;
-    height: 690px;
-    margin-left: 500px;
+    max-width: 80%;
+    height: 300%;
+    margin-left: 10%;
     background-color:rgba(34, 34, 34, 0.9);
     text-align: center;
     padding: 30px;
@@ -9,8 +9,8 @@
     margin-bottom: 50px;
     margin-top: 60px; 
     color: azure;   
-    background-color:  #6cbe02;;
+    background-color:  #6cbe02;
 }
-.bdy{
+.body{
     background-color:#e9d7d3;
 }
