@@ -1,0 +1,16 @@
+.contact-container{
+    width: 500px;
+    height: 690px;
+    margin-left: 500px;
+    background-color:rgba(34, 34, 34, 0.9);
+    text-align: left;
+    padding: 30px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    margin-top: 60px; 
+    color: azure;   
+    background-color:  #6cbe02;;
+}
+.bdy{
+    background-color:#e9d7d3;
+}
